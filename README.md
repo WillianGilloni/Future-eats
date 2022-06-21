@@ -1,3 +1,4 @@
 # Future-eats
 
-http://legal-opinion.surge.sh
+http://lame-month.surge.sh
+
